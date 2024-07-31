@@ -1,4 +1,4 @@
-package com.whatapp_api.whatsapp;
+package com.api.whatsapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
